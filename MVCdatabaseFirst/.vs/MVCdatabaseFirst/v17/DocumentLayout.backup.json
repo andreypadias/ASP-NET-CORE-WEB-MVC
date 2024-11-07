@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\MVCdatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DDCC9-4D61-474C-A37A-99CD2A7DA9AD}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\padias\\source\\repos\\mvcdatabasefirst\\proyectomvc\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2DDCC9-4D61-474C-A37A-99CD2A7DA9AD}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DDCC9-4D61-474C-A37A-99CD2A7DA9AD}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\padias\\source\\repos\\mvcdatabasefirst\\proyectomvc\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2DDCC9-4D61-474C-A37A-99CD2A7DA9AD}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DDCC9-4D61-474C-A37A-99CD2A7DA9AD}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\padias\\source\\repos\\mvcdatabasefirst\\proyectomvc\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2DDCC9-4D61-474C-A37A-99CD2A7DA9AD}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\MVCdatabaseFirst\\ProyectoMVC\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\MVCdatabaseFirst\\ProyectoMVC\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "ProyectoMVC\\Controllers\\ProveedoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:22:22.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\MVCdatabaseFirst\\ProyectoMVC\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\MVCdatabaseFirst\\ProyectoMVC\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ProyectoMVC\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:20:04.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\MVCdatabaseFirst\\ProyectoMVC\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\MVCdatabaseFirst\\ProyectoMVC\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "ProyectoMVC\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:18:00.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
