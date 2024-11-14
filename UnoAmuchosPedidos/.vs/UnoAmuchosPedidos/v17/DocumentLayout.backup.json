@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|c:\\users\\padias\\source\\repos\\unoamuchospedidos\\pedidos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|c:\\users\\padias\\source\\repos\\unoamuchospedidos\\pedidos\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|c:\\users\\padias\\source\\repos\\unoamuchospedidos\\pedidos\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|c:\\users\\padias\\source\\repos\\unoamuchospedidos\\pedidos\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|c:\\users\\padias\\source\\repos\\unoamuchospedidos\\pedidos\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|c:\\users\\padias\\source\\repos\\unoamuchospedidos\\pedidos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B0BC90-9C7A-4AF2-B940-1B38B779B8EB}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pedidos\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "Pedidos\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T01:22:37.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Pedidos\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Pedidos\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:52:01.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Views\\Pedidos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pedidos\\Views\\Pedidos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Views\\Pedidos\\Create.cshtml",
+              "RelativeToolTip": "Pedidos\\Views\\Pedidos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T01:13:32.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Views\\Pedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pedidos\\Views\\Pedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Views\\Pedidos\\Index.cshtml",
+              "RelativeToolTip": "Pedidos\\Views\\Pedidos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T01:12:51.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pedidos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pedidos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T01:11:07.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Pedidos\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\UnoAmuchosPedidos\\Pedidos\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Pedidos\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:53:53.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
