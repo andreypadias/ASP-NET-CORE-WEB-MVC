@@ -1,0 +1,53 @@
+﻿@model Cursos.Models.Estudiante
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Estudiante</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cedula)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cedula)
+        </dd>
+    </dl>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Curso
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.EstudiantesCursos)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Curso.Nombre)
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
